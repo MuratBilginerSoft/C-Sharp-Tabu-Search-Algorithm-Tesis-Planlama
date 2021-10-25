@@ -1,0 +1,24 @@
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Tabu Search v3.0\Tabu Search v3.0\bin\Debug\Tabu Search v3.0.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Tabu Search v3.0\Tabu Search v3.0\bin\Debug\Tabu Search v3.0.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu_Search_v3._0.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu_Search_v3._0.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.csprojResolveAssemblyReference.cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\bin\Debug\Tabu Search v3.0.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\bin\Debug\Tabu Search v3.0.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.csprojResolveAssemblyReference.cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu_Search_v3._0.Form1.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu_Search_v3._0.Properties.Resources.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.csproj.GenerateResource.Cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\bin\Debug\Tabu Search v3.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\bin\Debug\Tabu Search v3.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.csprojResolveAssemblyReference.cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu_Search_v3._0.Form1.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu_Search_v3._0.Properties.Resources.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\25 Tabu Search v3.0\Tabu Search v3.0\obj\x86\Debug\Tabu Search v3.0.csproj.GenerateResource.Cache
